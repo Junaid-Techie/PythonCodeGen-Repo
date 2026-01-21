@@ -1,0 +1,264 @@
+=== Overall Metrics ===
+BLEU Score: 0.0001
+CodeBLEU Score: nan
+Average Perplexity: 87.5475
+
+=== CodeBLEU Component Scores ===
+
+=== Per-Sample Metrics ===
+Sample 0:
+  Perplexity: 8.1469
+Sample 1:
+  Perplexity: nan
+Sample 2:
+  Perplexity: 7.5252
+Sample 3:
+  Perplexity: 207.4222
+Sample 4:
+  Perplexity: 11.4063
+Sample 5:
+  Perplexity: 22.9807
+Sample 6:
+  Perplexity: nan
+Sample 7:
+  Perplexity: nan
+Sample 8:
+  Perplexity: 1.5978
+Sample 9:
+  Perplexity: nan
+Sample 10:
+  Perplexity: 3.7107
+Sample 11:
+  Perplexity: 27.2172
+Sample 12:
+  Perplexity: nan
+Sample 13:
+  Perplexity: nan
+Sample 14:
+  Perplexity: nan
+Sample 15:
+  Perplexity: 15.6946
+Sample 16:
+  Perplexity: 8.6216
+Sample 17:
+  Perplexity: 68.3956
+Sample 18:
+  Perplexity: 50.9703
+Sample 19:
+  Perplexity: 53.7163
+Sample 20:
+  Perplexity: nan
+Sample 21:
+  Perplexity: nan
+Sample 22:
+  Perplexity: 9.1293
+Sample 23:
+  Perplexity: 4.7740
+Sample 24:
+  Perplexity: 80.6875
+Sample 25:
+  Perplexity: 29.1191
+Sample 26:
+  Perplexity: 42.6483
+Sample 27:
+  Perplexity: nan
+Sample 28:
+  Perplexity: nan
+Sample 29:
+  Perplexity: nan
+Sample 30:
+  Perplexity: 92.2475
+Sample 31:
+  Perplexity: nan
+Sample 32:
+  Perplexity: nan
+Sample 33:
+  Perplexity: 8.8754
+Sample 34:
+  Perplexity: 5.6595
+Sample 35:
+  Perplexity: 4.6866
+Sample 36:
+  Perplexity: 244.1634
+Sample 37:
+  Perplexity: 17.9394
+Sample 38:
+  Perplexity: 10.9445
+Sample 39:
+  Perplexity: nan
+Sample 40:
+  Perplexity: nan
+Sample 41:
+  Perplexity: nan
+Sample 42:
+  Perplexity: nan
+Sample 43:
+  Perplexity: nan
+Sample 44:
+  Perplexity: nan
+Sample 45:
+  Perplexity: nan
+Sample 46:
+  Perplexity: 9.8814
+Sample 47:
+  Perplexity: nan
+Sample 48:
+  Perplexity: nan
+Sample 49:
+  Perplexity: nan
+Sample 50:
+  Perplexity: nan
+Sample 51:
+  Perplexity: 4.6866
+Sample 52:
+  Perplexity: nan
+Sample 53:
+  Perplexity: nan
+Sample 54:
+  Perplexity: 26.1218
+Sample 55:
+  Perplexity: 66.8819
+Sample 56:
+  Perplexity: nan
+Sample 57:
+  Perplexity: nan
+Sample 58:
+  Perplexity: nan
+Sample 59:
+  Perplexity: nan
+Sample 60:
+  Perplexity: 5.6020
+Sample 61:
+  Perplexity: 141.7989
+Sample 62:
+  Perplexity: nan
+Sample 63:
+  Perplexity: 3.3185
+Sample 64:
+  Perplexity: nan
+Sample 65:
+  Perplexity: nan
+Sample 66:
+  Perplexity: 7.8645
+Sample 67:
+  Perplexity: nan
+Sample 68:
+  Perplexity: nan
+Sample 69:
+  Perplexity: 8.8783
+Sample 70:
+  Perplexity: nan
+Sample 71:
+  Perplexity: 3785.7864
+Sample 72:
+  Perplexity: nan
+Sample 73:
+  Perplexity: nan
+Sample 74:
+  Perplexity: 7.5677
+Sample 75:
+  Perplexity: 6.9253
+Sample 76:
+  Perplexity: 11.6787
+Sample 77:
+  Perplexity: 3.2175
+Sample 78:
+  Perplexity: nan
+Sample 79:
+  Perplexity: nan
+Sample 80:
+  Perplexity: 15.5421
+Sample 81:
+  Perplexity: 1.4945
+Sample 82:
+  Perplexity: 29.6723
+Sample 83:
+  Perplexity: nan
+Sample 84:
+  Perplexity: 1.9874
+Sample 85:
+  Perplexity: nan
+Sample 86:
+  Perplexity: nan
+Sample 87:
+  Perplexity: nan
+Sample 88:
+  Perplexity: nan
+Sample 89:
+  Perplexity: 2.4508
+Sample 90:
+  Perplexity: nan
+Sample 91:
+  Perplexity: nan
+Sample 92:
+  Perplexity: 13.6458
+Sample 93:
+  Perplexity: 3.8790
+Sample 94:
+  Perplexity: nan
+Sample 95:
+  Perplexity: 7.1274
+Sample 96:
+  Perplexity: nan
+Sample 97:
+  Perplexity: nan
+Sample 98:
+  Perplexity: 9.3752
+Sample 99:
+  Perplexity: 4.6037
+Sample 100:
+  Perplexity: 90.2421
+Sample 101:
+  Perplexity: 11.5754
+Sample 102:
+  Perplexity: 37.0613
+Sample 103:
+  Perplexity: nan
+Sample 104:
+  Perplexity: nan
+Sample 105:
+  Perplexity: nan
+Sample 106:
+  Perplexity: 81.1496
+Sample 107:
+  Perplexity: 5.0877
+Sample 108:
+  Perplexity: nan
+Sample 109:
+  Perplexity: 2.7298
+Sample 110:
+  Perplexity: nan
+Sample 111:
+  Perplexity: nan
+Sample 112:
+  Perplexity: 3.6789
+Sample 113:
+  Perplexity: nan
+Sample 114:
+  Perplexity: 9.4834
+Sample 115:
+  Perplexity: 1.3236
+Sample 116:
+  Perplexity: 13.3915
+Sample 117:
+  Perplexity: 17.4245
+Sample 118:
+  Perplexity: nan
+Sample 119:
+  Perplexity: 8.7643
+Sample 120:
+  Perplexity: nan
+Sample 121:
+  Perplexity: 7.0892
+Sample 122:
+  Perplexity: nan
+Sample 123:
+  Perplexity: 89.8422
+Sample 124:
+  Perplexity: 5.9257
+Sample 125:
+  Perplexity: nan
+Sample 126:
+  Perplexity: nan
+Sample 127:
+  Perplexity: nan

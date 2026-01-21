@@ -1,0 +1,539 @@
+==== GENERATED 0 ====
+sequence = [1, 2, 3, 4, 5]
+print(sum_sequence(sequence))
+
+==== GENERATED 1 ====
+
+
+==== GENERATED 2 ====
+squared_values = [x*x for x in [1, 2, 3, 5, 8, 13]]
+
+==== GENERATED 3 ====
+# Output: "AAABBCCCD"
+
+==== GENERATED 4 ====
+return random.randint(0, 9)
+
+==== GENERATED 5 ====
+lst = [12, 13, 13, 45, 22, 99]
+print(third_largest(lst))
+
+==== GENERATED 6 ====
+
+
+==== GENERATED 7 ====
+
+
+==== GENERATED 8 ====
+def is_palindrome(s):
+    '''This function returns True if the string s is a palindrome and False if it isn't.''' 
+    return s == s[::-1]  # Checks if s is the same as its reverse. 
+    
+def is_palindrome(s):
+    '''This function returns True if the string s is a palindrome and False if it isn't.''' 
+    return s == s[::-1]  # Checks if s is the same as its reverse. 
+    
+def is_palindrome(s):
+    '''This function returns True if the string s is a palindrome and False if it isn't.''' 
+    return s == s[::-1]  # Checks if s is the same as its reverse. 
+    
+def is_palindrome(s):
+    '''This function returns True if the string s is a palindrome and False if it isn't.''' 
+    return
+
+==== GENERATED 9 ====
+
+
+==== GENERATED 10 ====
+num1 = int(input("Enter a number: ")) 
+num2 = int(input("Enter a number: ")) 
+
+print(double_add(num1, num2))
+
+==== GENERATED 11 ====
+sentence = 'This machine learning project is challenging.'
+print(extract_words(sentence))
+
+==== GENERATED 12 ====
+
+
+==== GENERATED 13 ====
+
+
+==== GENERATED 14 ====
+
+
+==== GENERATED 15 ====
+# Make predictions
+predictions = model.predict(datagen)
+print(predictions)
+
+==== GENERATED 16 ====
+m = 36
+n = 74
+divisible_numbers = find_numbers_divisible_by(m, n, divisor)
+print(divisible_numbers)
+
+==== GENERATED 17 ====
+print(result)
+
+==== GENERATED 18 ====
+print(factorial(3))
+
+==== GENERATED 19 ====
+# Print the prediction
+print(predicted_label)
+
+==== GENERATED 20 ====
+
+
+==== GENERATED 21 ====
+
+
+==== GENERATED 22 ====
+# Get the most recent tweets from the user
+most_recent_tweets = api.user_timeline(screen_name="@elonmusk")
+print(most_recent_tweets)
+
+==== GENERATED 23 ====
+if __name__ == "__main__":
+    model = create_model()
+
+==== GENERATED 24 ====
+# Output: "Hello world!"
+
+==== GENERATED 25 ====
+printMax(parameter_1, parameter_2)
+
+==== GENERATED 26 ====
+print(even_numbers)
+
+==== GENERATED 27 ====
+
+
+==== GENERATED 28 ====
+
+
+==== GENERATED 29 ====
+
+
+==== GENERATED 30 ====
+print(people_dict)
+
+==== GENERATED 31 ====
+
+
+==== GENERATED 32 ====
+
+
+==== GENERATED 33 ====
+# ['cat', 'dog', 'apple', 'banana']
+
+==== GENERATED 34 ====
+lst = [1, 2, 3, 4, 5]
+max_value = get_max_min(lst)
+print(max_value)
+
+==== GENERATED 35 ====
+else:
+        print(num)
+
+==== GENERATED 36 ====
+print(myArray)
+
+==== GENERATED 37 ====
+# Train the model
+model.fit(output_layer, epochs=10)
+
+==== GENERATED 38 ====
+# Driver code 
+classifier = MultinomialNB()
+
+# Driver code 
+classifier.fit(data, target)
+
+==== GENERATED 39 ====
+
+
+==== GENERATED 40 ====
+
+
+==== GENERATED 41 ====
+
+
+==== GENERATED 42 ====
+
+
+==== GENERATED 43 ====
+
+
+==== GENERATED 44 ====
+
+
+==== GENERATED 45 ====
+
+
+==== GENERATED 46 ====
+sentiment = analyze_sentiment(text)
+print(sentiment)
+
+==== GENERATED 47 ====
+
+
+==== GENERATED 48 ====
+
+
+==== GENERATED 49 ====
+
+
+==== GENERATED 50 ====
+
+
+==== GENERATED 51 ====
+else:
+        print(num)
+
+==== GENERATED 52 ====
+
+
+==== GENERATED 53 ====
+
+
+==== GENERATED 54 ====
+print(fibonacci(10))
+
+==== GENERATED 55 ====
+print('Shipping cost:', shippingCost)
+
+==== GENERATED 56 ====
+
+
+==== GENERATED 57 ====
+
+
+==== GENERATED 58 ====
+
+
+==== GENERATED 59 ====
+
+
+==== GENERATED 60 ====
+if __name__ == '__main__': 
+  arr = [1, 2, 3, 4]
+  is_array_even(arr)
+
+==== GENERATED 61 ====
+print(gini_coef) # should print 0.605
+
+==== GENERATED 62 ====
+
+
+==== GENERATED 63 ====
+else: 
+                print(p)
+
+==== GENERATED 64 ====
+
+
+==== GENERATED 65 ====
+
+
+==== GENERATED 66 ====
+lst = [1, 2, 3, 4, 5]
+print(avg_list(lst))
+
+==== GENERATED 67 ====
+
+
+==== GENERATED 68 ====
+
+
+==== GENERATED 69 ====
+matrix1 = add_matrix(matrix1, matrix2)
+print(result)
+
+==== GENERATED 70 ====
+
+
+==== GENERATED 71 ====
+# Output: 5
+
+==== GENERATED 72 ====
+
+
+==== GENERATED 73 ====
+
+
+==== GENERATED 74 ====
+str_to_lower = str_to_lower('a')
+print(str_to_lower)
+
+==== GENERATED 75 ====
+list = [1, 2, 3, 4, 5] 
+print(shuffle_list(list))
+
+==== GENERATED 76 ====
+email_list = ["example.user@gmail.com", "bad@example"]
+validate_email_list(email_list)
+
+==== GENERATED 77 ====
+if __name__ == '__main__':
+    int1 = 10
+    int2 = 5
+    print(int1)
+
+==== GENERATED 78 ====
+
+
+==== GENERATED 79 ====
+
+
+==== GENERATED 80 ====
+faker = Faker()
+for _ in range(10):
+ print(faker.email(), faker.random_int(min=18, max=60))
+
+==== GENERATED 81 ====
+if __name__ == '__main__':
+    tweets = [
+        "positive sentiment",
+        "negative sentiment",
+        "neutral sentiment",
+        "neutral sentiment",
+        "neutral sentiment",
+        "neutral sentiment",
+        "neutral sentiment",
+        "neutral sentiment",
+        "neutral sentiment",
+    ]
+    print(tweets)
+
+==== GENERATED 82 ====
+# Domain name: www.example.com
+# Path: /path/to/file
+
+==== GENERATED 83 ====
+
+
+==== GENERATED 84 ====
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tweet-cron
+data:
+  crontab: "* * * * * python publish-tweet.py"
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tweet-cron
+data:
+  crontab: "* * * * * python publish-tweet.py"
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tweet-cron
+data:
+  crontab: "* * * * * python publish-tweet.py"
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tweet-cron
+data:
+  crontab: "* * * * * python publish-tweet.py"
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tweet-cron
+data:
+  crontab: "* * * * * python publish-tweet.py"
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tweet-cron
+data:
+
+==== GENERATED 85 ====
+
+
+==== GENERATED 86 ====
+
+
+==== GENERATED 87 ====
+
+
+==== GENERATED 88 ====
+
+
+==== GENERATED 89 ====
+def area(self):
+        return self.width * self.length
+
+    def area(self):
+        return self.width * self.length
+
+==== GENERATED 90 ====
+
+
+==== GENERATED 91 ====
+
+
+==== GENERATED 92 ====
+sentence = "The rain in Spain stays mainly in the plain."
+longest_word = find_longest_word(sentence)
+print(longest_word)
+
+==== GENERATED 93 ====
+if __name__ == '__main__':
+    temp_fahrenheit = 32
+    print(fahrenheitToCelsius(temp_fahrenheit))
+
+==== GENERATED 94 ====
+
+
+==== GENERATED 95 ====
+for i in range(5, 0, -1):
+    print("*", end="")
+
+==== GENERATED 96 ====
+
+
+==== GENERATED 97 ====
+
+
+==== GENERATED 98 ====
+dict = {'A':5, 'B':6, 'C':10}
+print(dict_sum(dict))
+
+==== GENERATED 99 ====
+if __name__ == '__main__':
+ app.run()
+
+==== GENERATED 100 ====
+# ['Python', 'is', 'Fun']
+
+==== GENERATED 101 ====
+# Output: [3, 0, 1, 0, 5, 0, 2]
+
+==== GENERATED 102 ====
+print(fibonacci_seq(10))
+
+==== GENERATED 103 ====
+
+
+==== GENERATED 104 ====
+
+
+==== GENERATED 105 ====
+
+
+==== GENERATED 106 ====
+print(add_marks([87, 56, 99, 54]))
+
+==== GENERATED 107 ====
+else:
+        print("You don't have it!")
+
+==== GENERATED 108 ====
+
+
+==== GENERATED 109 ====
+if __name__ == '__main__':
+    recipient_emails = ["email1@example.com","email2@example.com"]
+    password = 'example_password'
+    server = smtplib.SMTP('smtp.gmail.com', 587) as server:
+        server.ehlo()
+        server.starttls()
+        server.login(sender_email, password)
+        server.quit()
+        print('Email sent successfully.')
+
+==== GENERATED 110 ====
+
+
+==== GENERATED 111 ====
+
+
+==== GENERATED 112 ====
+except Exception as e:
+        print(e)
+
+==== GENERATED 113 ====
+
+
+==== GENERATED 114 ====
+# Output: [3, 4, 5, 6, 7]
+
+==== GENERATED 115 ====
+# Driver code 
+head = head.left 
+head.right = head.right 
+head.left = head.left 
+head.right = head.right 
+head.left = head.left 
+head.right = head.right 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head.left 
+head.left = head
+
+==== GENERATED 116 ====
+response = requests.get(link['href']) 
+ 
+ return response
+
+==== GENERATED 117 ====
+print("Min: {0}, Mean: {1}, Mean: {2}".format(*stats_for_string))
+
+==== GENERATED 118 ====
+
+
+==== GENERATED 119 ====
+sys.exit(1)
+
+==== GENERATED 120 ====
+
+
+==== GENERATED 121 ====
+# Output: [1, 2, 3, 4, 5]
+
+==== GENERATED 122 ====
+
+
+==== GENERATED 123 ====
+print(PascalTriangle(n))
+
+==== GENERATED 124 ====
+# Output: [1, 2, 3, 4, 5, 6]
+
+==== GENERATED 125 ====
+
+
+==== GENERATED 126 ====
+
+
+==== GENERATED 127 ====
+
+

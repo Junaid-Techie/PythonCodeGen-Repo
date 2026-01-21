@@ -1,0 +1,194 @@
+2025-04-23 21:29:24,333 - INFO - Using device: mps
+2025-04-23 21:29:58,389 - INFO - Using device: mps
+2025-04-23 21:30:03,317 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:30:06,218 - INFO - Loaded 18612 prompts and 18612 expected outputs from data_files
+2025-04-23 21:30:06,228 - INFO - Generating outputs for 18612 prompts...
+2025-04-23 21:37:00,707 - INFO - Using device: mps
+2025-04-23 21:37:01,986 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:37:04,831 - INFO - Loaded 18612 prompts and 18612 expected outputs from data_files
+2025-04-23 21:37:04,847 - INFO - Generating outputs for 18612 prompts...
+2025-04-23 21:38:09,162 - INFO - Using device: mps
+2025-04-23 21:38:10,133 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:38:12,388 - INFO - Loaded 18612 prompts and 18612 expected outputs from data_files
+2025-04-23 21:38:12,398 - INFO - Generating outputs for 18612 prompts...
+2025-04-23 21:40:33,301 - INFO - Using device: mps
+2025-04-23 21:40:34,314 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:40:36,577 - INFO - Loaded 18612 prompts and 18612 expected outputs from data_files
+2025-04-23 21:40:36,587 - INFO - Generating outputs for 18612 prompts...
+2025-04-23 21:48:02,465 - INFO - Using device: mps
+2025-04-23 21:48:03,616 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:48:06,398 - INFO - Loaded 18612 prompts and 18612 expected outputs from data_files
+2025-04-23 21:48:06,407 - INFO - Generating outputs for 18612 prompts...
+2025-04-23 21:52:46,362 - INFO - Using device: mps
+2025-04-23 21:52:47,923 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:52:48,793 - INFO - Loaded 512 prompts and 512 expected outputs from data_files
+2025-04-23 21:52:48,803 - INFO - Generating outputs for 512 prompts...
+2025-04-23 21:55:37,881 - INFO - Using device: mps
+2025-04-23 21:55:39,048 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 21:55:39,855 - INFO - Loaded 512 prompts and 512 expected outputs from data_files
+2025-04-23 21:55:39,865 - INFO - Generating outputs for 512 prompts...
+2025-04-23 22:05:02,342 - INFO - Using device: mps
+2025-04-23 22:05:03,525 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-23 22:05:04,342 - INFO - Loaded 128 prompts and 128 expected outputs from data_files
+2025-04-23 22:05:04,351 - INFO - Generating outputs for 128 prompts...
+2025-04-23 22:10:18,826 - INFO - Output generation complete
+2025-04-23 22:10:18,858 - INFO - Saved 128 generated outputs to evaluation_results
+2025-04-23 22:10:19,933 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:20,698 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:20,698 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:20,997 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:21,160 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:21,177 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:21,177 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:22,870 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:22,870 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:23,185 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:23,185 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:23,185 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:23,792 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:23,792 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,375 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,651 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,651 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,652 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,652 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,666 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:25,666 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,101 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,101 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,102 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,102 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,269 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,405 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,405 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,420 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,420 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,433 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,442 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,442 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,740 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:26,740 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,212 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,360 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,360 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,360 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,361 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,374 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,374 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,694 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,712 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:27,712 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:28,679 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:28,679 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:28,679 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:28,705 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:28,853 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:28,853 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,038 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,400 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,410 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,423 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,444 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,444 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,444 - WARNING - Error calculating perplexity: cannot reshape tensor of 0 elements into shape [-1, 0] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-04-23 22:10:29,456 - WARNING - Error calculating CodeBLEU: No module named 'calc_codebleu'
+2025-04-23 22:10:29,461 - INFO - Saved metrics to evaluation_results/metrics.txt
+2025-04-23 22:10:29,461 - INFO - Total execution time: 327.13 seconds
+2025-04-28 20:31:32,823 - INFO - Using device: mps
+2025-04-28 20:31:34,172 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-28 20:31:34,957 - INFO - Loaded 128 prompts and 128 expected outputs from data_files
+2025-04-28 20:31:34,960 - INFO - Generating outputs for 128 prompts...
+2025-04-28 20:33:02,789 - INFO - Using device: mps
+2025-04-28 20:33:03,695 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-28 20:33:04,243 - INFO - Loaded 128 prompts and 128 expected outputs from data_files
+2025-04-28 20:33:04,247 - INFO - Generating outputs for 128 prompts...
+2025-04-28 20:35:48,902 - INFO - Using device: mps
+2025-04-28 20:35:49,820 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-28 20:35:50,342 - INFO - Loaded 128 prompts and 128 expected outputs from data_files
+2025-04-28 20:35:50,346 - INFO - Generating outputs for 128 prompts...
+2025-04-28 20:42:25,188 - INFO - Output generation complete
+2025-04-28 20:42:25,300 - INFO - Saved 128 generated outputs to evaluation_results
+2025-04-28 20:49:11,970 - INFO - Using device: mps
+2025-04-28 20:52:33,342 - INFO - Using device: mps
+2025-04-28 20:52:34,314 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-28 20:52:34,869 - INFO - Loaded 128 prompts and 128 expected outputs from data_files
+2025-04-28 20:52:34,873 - INFO - Generating outputs for 128 prompts...
+2025-04-28 20:53:37,219 - INFO - Using device: mps
+2025-04-28 20:53:38,133 - INFO - Loading GPT-2 model from /Users/jagathkumarreddyk/Documents/GitHub/CodeParrot2.0/finetuning/ft3/fine_tuned_gpt2/best_model
+2025-04-28 20:53:38,432 - INFO - Loaded 128 prompts and 128 expected outputs from data_files
+2025-04-28 20:53:38,435 - INFO - Generating outputs for 128 prompts...
+2025-04-28 20:59:06,939 - INFO - Output generation complete
+2025-04-28 20:59:06,964 - INFO - Saved 128 generated outputs to evaluation_results
+2025-04-28 20:59:07,999 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:08,977 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:08,977 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:09,326 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:09,660 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:09,660 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:09,660 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:11,466 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:11,466 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:11,902 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:11,902 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:11,902 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:12,583 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:12,583 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,471 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,471 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,472 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,472 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,472 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,472 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,472 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,812 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,812 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,812 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,812 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,827 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:14,827 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,365 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,365 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,365 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,365 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,583 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,793 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,793 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,810 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,810 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,826 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,837 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:15,837 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:16,316 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:16,316 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,181 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,413 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,413 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,413 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,413 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,429 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,429 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,891 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,907 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:17,907 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,137 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,137 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,137 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,168 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,605 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,605 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:19,820 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,180 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,191 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,204 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,229 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,229 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,229 - WARNING - Error calculating perplexity: Empty string provided for perplexity calculation.
+2025-04-28 20:59:20,243 - WARNING - Error calculating CodeBLEU: No module named 'calc_codebleu'
+2025-04-28 20:59:20,250 - INFO - Saved metrics to evaluation_results/metrics.txt
+2025-04-28 20:59:20,250 - INFO - Total execution time: 343.04 seconds

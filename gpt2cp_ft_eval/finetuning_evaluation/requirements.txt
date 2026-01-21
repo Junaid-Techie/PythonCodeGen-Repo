@@ -1,0 +1,7 @@
+accelerate
+datasets
+numpy
+safetensors
+torch
+transformers
+tqdm
